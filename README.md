@@ -1,9 +1,9 @@
 # Arch-Composer
 ## Introduction
 My objective with this project is:
- - To have a pre-made archlinux install (inside a file) that I can rely on
- - Make minimal effort to start the install
- - Make my computer exactly how i want it to be since the very first reboot
+ - To have a pre-made archlinux install (inside a file) that I can rely on.
+ - Wasting minimal effort to start the install.
+ - Make my computer exactly how i want it to be since the very first reboot.
  - Remove the need of being in front of the PC all the time during the install.
 
 ## Objectives
