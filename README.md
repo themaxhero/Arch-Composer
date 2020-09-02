@@ -4,7 +4,7 @@ My objective with this project is:
  - To have a pre-made archlinux install (inside a file) that I can rely on.
  - Wasting minimal effort to start the install.
  - Make my computer be exactly how i want it to be since the very first reboot.
- - Remove the need of being in front of the PC all the time during the install.
+ - Remove the need of being all the time in front of the Computer during the install proccess.
 
 ## Objectives
  - [ ] Manage the partitions during the install.
